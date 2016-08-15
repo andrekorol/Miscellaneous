@@ -21,5 +21,5 @@ computer = raw_input(prompt)
 print """
 Alright, so you said %r about liking me.
 You live in %r. Not sure where that is.
-Yyou have a %r computer and you were born in %d. Nice.
+You have a %r computer and you were born in %d. Nice.
 """ % (likes, lives, computer, year)
