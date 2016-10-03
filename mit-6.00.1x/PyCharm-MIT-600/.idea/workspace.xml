@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c404949c-2083-4903-8648-f6114195d5ed" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prob2-2.py" afterPath="$PROJECT_DIR$/prob2-2.py" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -466,7 +465,14 @@
       <option name="project" value="LOCAL" />
       <updated>1475537940713</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Novos arquivos do curso do MIT-4&#10;">
+      <created>1475538130909</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1475538130909</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -514,7 +520,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Novos arquivos do curso do MIT-3&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Novos arquivos do curso do MIT-3&#10;" />
+    <MESSAGE value="Novos arquivos do curso do MIT-4&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Novos arquivos do curso do MIT-4&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
