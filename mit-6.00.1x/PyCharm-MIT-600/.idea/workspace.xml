@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c404949c-2083-4903-8648-f6114195d5ed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid-exam-1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid-exam-2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week2.3-ex2.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prob2-2.py" afterPath="$PROJECT_DIR$/prob2-2.py" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,17 +43,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="prob2-2.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="prob2-2.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/prob2-2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="59" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="59" />
+            <state relative-caret-position="315">
+              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -86,6 +83,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="andrekorol &lt;anrobits@yahoo.com.br&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
@@ -103,12 +105,12 @@
         <option value="$PROJECT_DIR$/prob1-2.py" />
         <option value="$PROJECT_DIR$/prob1-3.py" />
         <option value="$PROJECT_DIR$/prob2-1.py" />
-        <option value="$PROJECT_DIR$/prob2-2.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/answ-prob2-3.py" />
         <option value="$PROJECT_DIR$/week2.3-ex2.py" />
         <option value="$PROJECT_DIR$/mid-exam-1.py" />
         <option value="$PROJECT_DIR$/mid-exam-2.py" />
+        <option value="$PROJECT_DIR$/prob2-2.py" />
       </list>
     </option>
   </component>
@@ -457,6 +459,14 @@
       <option name="presentableId" value="Default" />
       <updated>1473994752791</updated>
     </task>
+    <task id="LOCAL-00001" summary="Novos arquivos do curso do MIT-3&#10;">
+      <created>1475537940713</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1475537940713</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -501,6 +511,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Novos arquivos do curso do MIT-3&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Novos arquivos do curso do MIT-3&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -831,14 +845,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prob2-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="59" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/answ-prob2-3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -899,6 +905,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prob2-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
           <folding />
         </state>
       </provider>
