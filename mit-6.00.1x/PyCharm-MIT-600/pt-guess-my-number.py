@@ -8,7 +8,7 @@ high = 100
 while True:
     my_guess = (high + low) / 2
     print("O seu número é %d?" % my_guess)
-    ans = input("Aperte 'a' para indicar que o meu chute foi muito alto. Aperte 'b' para indicar que a"
+    ans = input("Aperte 'a' para indicar que o meu chute foi muito alto. Aperte 'b' para indicar que o "
         "meu chute foi muito baixo. Aperte 'c' para indicar que meu chute está correto.")
     if ans == 'a':
         high = my_guess
