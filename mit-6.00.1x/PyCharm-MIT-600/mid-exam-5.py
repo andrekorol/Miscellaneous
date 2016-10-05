@@ -5,4 +5,5 @@ def dotProduct(listA, listB):
 
     return sum(new_list)
 
+
 print(dotProduct([1, 2, 3], [4, 5, 6]))
