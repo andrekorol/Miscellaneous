@@ -53,8 +53,6 @@ def dec2bin(num):
 
         result = integer_part + decimal_part
 
-
-
     else:
 
         if num < 0:
@@ -76,3 +74,5 @@ def dec2bin(num):
             result = '-' + result
 
     return result
+    print(decimal_part)
+    print(integer_part)
