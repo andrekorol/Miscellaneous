@@ -3,5 +3,6 @@ def f(x):
     print('in f(x): x = ', x)
     return x
 
+
 x = 3
 z = f(x)
