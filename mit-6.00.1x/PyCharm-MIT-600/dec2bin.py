@@ -36,7 +36,8 @@ def dec2bin(num):
         num_hex = float.hex(num)
 
         result = floathex_to_binary(num_hex)
-
+        if num < 0:
+            result = '-' + str(result)
     else:
 
         if num < 0:
