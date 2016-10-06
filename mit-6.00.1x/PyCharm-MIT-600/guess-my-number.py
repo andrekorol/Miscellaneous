@@ -7,7 +7,7 @@ high = 100
 print("Is your secret number %d?" % medium)
 
 ans = input("Enter 'h' to indicate the guess is too high. Enter 'l' to indicate the guess is too low. Enter "
-                "'c' to indicate I guessed correctly.")
+            "'c' to indicate I guessed correctly.")
 while True:
     if ans == 'h':
         high = medium
@@ -15,7 +15,7 @@ while True:
 
     elif ans == 'l':
         low = medium
-        medium = int((medium+ high) / 2)
+        medium = int((medium + high) / 2)
 
     elif ans == 'c':
         break
@@ -26,6 +26,5 @@ while True:
 
     ans = input("Enter 'h' to indicate the guess is too high. Enter 'l' to indicate the guess is too low. Enter "
                 "'c' to indicate I guessed correctly.")
-
 
 print("Game over. Your secret number was: %d" % medium)
