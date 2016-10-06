@@ -1,5 +1,22 @@
 def dec2bin(num):
     import math
+    def float_to_binary(numb):
+        exponent = 0
+        shifted_num = numb
+        while shifted_num != int(shifted_num):
+            shifted_num *= 2
+            exponent += 1
+        if exponent == 0:
+            return '{0:0b}'.format(int(shifted_num))
+        binary = '{0:0{1}b}'.format(int(shifted_num), exponent + 1)
+        integer_part = binary[:-exponent]
+        fractional_part = binary[-exponent:].rstrip('0')
+        return '{0}.{1}'.format(integer_part, fractional_part)
+
+    def floathex_to_binary(floathex):
+        number = float.fromhex(floathex)
+        return float_to_binary(number)
+
     if 0 < num < 1:
         p = 0
         while ((2 ** p) * num) % 1 != 0:
@@ -16,28 +33,15 @@ def dec2bin(num):
         result = result[0:-p] + '.' + result[-p:]
 
     elif num > 0 and type(num) is float:
-        def float_to_binary(numb):
-            exponent = 0
-            shifted_num = numb
-            while shifted_num != int(shifted_num):
-                shifted_num *= 2
-                exponent += 1
-            if exponent == 0:
-                return '{0:0b}'.format(int(shifted_num))
-            binary = '{0:0{1}b}'.format(int(shifted_num), exponent + 1)
-            integer_part = binary[:-exponent]
-            fractional_part = binary[-exponent:].rstrip('0')
-            return '{0}.{1}'.format(integer_part, fractional_part)
-
-        def floathex_to_binary(floathex):
-            number = float.fromhex(floathex)
-            return float_to_binary(number)
-
         num_hex = float.hex(num)
-
         result = floathex_to_binary(num_hex)
-        if num < 0:
-            result = '-' + str(result)
+
+
+    elif num < 0 and type(num) is float:
+        num_hex = float.hex(num)
+        result = floathex_to_binary(num_hex)
+
+
     else:
 
         if num < 0:
