@@ -16,42 +16,26 @@ def dec2bin(num):
         result = result[0:-p] + '.' + result[-p:]
 
     elif num > 0 and type(num) is float:
-        i, d = math.modf(num)
+        def float_to_binary(numb):
+            exponent = 0
+            shifted_num = numb
+            while shifted_num != int(shifted_num):
+                shifted_num *= 2
+                exponent += 1
+            if exponent == 0:
+                return '{0:0b}'.format(int(shifted_num))
+            binary = '{0:0{1}b}'.format(int(shifted_num), exponent + 1)
+            integer_part = binary[:-exponent]
+            fractional_part = binary[-exponent:].rstrip('0')
+            return '{0}.{1}'.format(integer_part, fractional_part)
 
-        if i < 0:
-            isneg = True
-            i = abs(i)
-        else:
-            isneg = False
+        def floathex_to_binary(floathex):
+            number = float.fromhex(floathex)
+            return float_to_binary(number)
 
-        integer_part = ''
+        num_hex = float.hex(num)
 
-        if i == 0:
-            integer_part = '0'
-
-        while i > 0:
-            integer_part = str(i % 2) + integer_part
-            i //= 2
-
-        if isneg:
-            integer_part = '-' + integer_part
-
-        p = 0
-        while ((2 ** p) * d) % 1 != 0:
-            p += 1
-        y = int(d * (2 ** p))
-        decimal_part = ''
-        if y == 0:
-            decimal_part = '0'
-        while y > 0:
-            decimal_part = str(y % 2) + decimal_part
-            y //= 2
-        for i in range(p - len(decimal_part)):
-            decimal_part = '0' + decimal_part
-
-        decimal_part = decimal_part[0:-p] + '.' + decimal_part[-p:]
-
-        result = integer_part + decimal_part
+        result = floathex_to_binary(num_hex)
 
     else:
 
@@ -74,5 +58,4 @@ def dec2bin(num):
             result = '-' + result
 
     return result
-    print(decimal_part)
-    print(integer_part)
+    
