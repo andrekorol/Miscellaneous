@@ -1,5 +1,8 @@
 def dec2bin(num):
-    import math
+    """
+    :param num: Enter any integer or float. It can be both positive or negative
+    :return: Returns the binary representation of the decimal used as parameter
+    """
     def float_to_binary(numb):
         exponent = 0
         shifted_num = numb
@@ -36,11 +39,9 @@ def dec2bin(num):
         num_hex = float.hex(num)
         result = floathex_to_binary(num_hex)
 
-
     elif num < 0 and type(num) is float:
         num_hex = float.hex(num)
         result = floathex_to_binary(num_hex)
-
 
     else:
 
@@ -63,4 +64,3 @@ def dec2bin(num):
             result = '-' + result
 
     return result
-    

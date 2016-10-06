@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c404949c-2083-4903-8648-f6114195d5ed" name="Default" comment="">
+    <list default="true" id="c404949c-2083-4903-8648-f6114195d5ed" name="Default" comment="Novos arquivos do curso do MIT-Finger Exercises Week 2 . 3 &#10;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dec2bin.py" afterPath="$PROJECT_DIR$/dec2bin.py" />
     </list>
@@ -106,8 +106,8 @@
       <file leaf-file-name="dec2bin.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dec2bin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+            <state relative-caret-position="45">
+              <caret line="3" column="79" selection-start-line="3" selection-start-column="79" selection-end-line="3" selection-end-column="79" />
               <folding />
             </state>
           </provider>
@@ -627,7 +627,14 @@
       <option name="project" value="LOCAL" />
       <updated>1475712875849</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Novos arquivos do curso do MIT-Finger Exercises Week 2 . 3 &#10;">
+      <created>1475713190284</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1475713190284</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1050,8 +1057,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dec2bin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+        <state relative-caret-position="45">
+          <caret line="3" column="79" selection-start-line="3" selection-start-column="79" selection-end-line="3" selection-end-column="79" />
           <folding />
         </state>
       </provider>
