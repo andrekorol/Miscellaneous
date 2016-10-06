@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c404949c-2083-4903-8648-f6114195d5ed" name="Default" comment="Novos arquivos do curso do MIT-Finger Exercises Week 2 . 3 &#10;">
+    <list default="true" id="c404949c-2083-4903-8648-f6114195d5ed" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dec2bin.py" afterPath="$PROJECT_DIR$/dec2bin.py" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -634,7 +633,14 @@
       <option name="project" value="LOCAL" />
       <updated>1475713190284</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Novos arquivos do curso do MIT-Finalizei minha função dec2bin&#10;">
+      <created>1475714601127</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1475714601127</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView">
@@ -686,7 +692,8 @@
     <MESSAGE value="Novos arquivos do curso do MIT-Feito ate o exercicio 5 do Midterm Exam  &#10;" />
     <MESSAGE value="Novos arquivos do curso do MIT-Feitos todos os exercicios do Midterm Exam  &#10;" />
     <MESSAGE value="Novos arquivos do curso do MIT-Finger Exercises Week 2 . 3 &#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Novos arquivos do curso do MIT-Finger Exercises Week 2 . 3 &#10;" />
+    <MESSAGE value="Novos arquivos do curso do MIT-Finalizei minha função dec2bin&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Novos arquivos do curso do MIT-Finalizei minha função dec2bin&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
