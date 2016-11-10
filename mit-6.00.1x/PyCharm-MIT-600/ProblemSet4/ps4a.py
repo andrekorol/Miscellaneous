@@ -1,3 +1,5 @@
+#!/usr/bin/env python3.5
+
 # The 6.00 Word Game
 
 import random
