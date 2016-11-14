@@ -6,6 +6,8 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="dec2bin" />
     <orderEntry type="module" module-name="mit-6.00.2x" />
+    <orderEntry type="module" module-name="code-wars" />
+    <orderEntry type="module" module-name="Python2.7" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
