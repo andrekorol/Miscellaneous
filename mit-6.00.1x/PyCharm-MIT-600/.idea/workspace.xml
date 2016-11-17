@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c404949c-2083-4903-8648-f6114195d5ed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../code-wars/.idea/code-wars.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../code-wars/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../code-wars/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../code-wars/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../code-wars/Python/Python2.7/.idea/Python2.7.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../code-wars/Python/Python2.7/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../code-wars/Python/Python2.7/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../code-wars/Python/Python2.7/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../code-wars/Python/Python2.7/factors.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../code-wars/Python/Python3/whoIsNext.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mit-6.00.2x/UNIT1/yeldAllCombos.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/untitled.iml" afterPath="$PROJECT_DIR$/.idea/untitled.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mit-6.00.2x/UNIT1/greedy_cow_transport.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="untitled.iws" />
@@ -53,6 +41,7 @@
     <SUITE FILE_PATH="coverage/PyCharm-MIT-600$test_ps4a.coverage" NAME="test_ps4a Coverage Results" MODIFIED="1476585365727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSet4" />
     <SUITE FILE_PATH="coverage/PyCharm-MIT-600$gcdIter.coverage" NAME="gcdIter Coverage Results" MODIFIED="1476146610675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyCharm-MIT-600$ps3_hangman.coverage" NAME="ps3_hangman Coverage Results" MODIFIED="1476226835298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyCharm-MIT-600$ps1.coverage" NAME="ps1 Coverage Results" MODIFIED="1479319274174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../mit-6.00.2x/UNIT1/pset1" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -83,11 +72,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="yeldAllCombos.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="yeldAllCombos.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../mit-6.00.2x/UNIT1/yeldAllCombos.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
               <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="greedy_cow_transport.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../mit-6.00.2x/UNIT1/greedy_cow_transport.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ps1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../mit-6.00.2x/UNIT1/pset1/ps1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="70" column="30" selection-start-line="70" selection-start-column="30" selection-end-line="70" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -123,8 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/dec-bin-test.py" />
-        <option value="$PROJECT_DIR$/convert-dec-bin.py" />
         <option value="$PROJECT_DIR$/var-scope-test.py" />
         <option value="$PROJECT_DIR$/newton-raphson.py" />
         <option value="$PROJECT_DIR$/guess-my-number.py" />
@@ -174,6 +181,8 @@
         <option value="$PROJECT_DIR$/../../code-wars/Python/Python2.7/factors.py" />
         <option value="$PROJECT_DIR$/../../code-wars/Python/Python3/whoIsNext.py" />
         <option value="$PROJECT_DIR$/../../mit-6.00.2x/UNIT1/yeldAllCombos.py" />
+        <option value="$PROJECT_DIR$/../../mit-6.00.2x/UNIT1/greedy_cow_transport.py" />
+        <option value="$PROJECT_DIR$/../../mit-6.00.2x/UNIT1/pset1/ps1.py" />
       </list>
     </option>
   </component>
@@ -185,7 +194,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="width" value="1366" />
-    <option name="height" value="732" />
+    <option name="height" value="736" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -212,10 +221,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Problems" />
-      </pane>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -257,8 +262,30 @@
               <option name="myItemId" value="mit-6.00.2x" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UNIT1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pset1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyCharm-MIT-600" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mit-6.00.2x" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Problems" />
       </pane>
     </panes>
   </component>
@@ -271,25 +298,7 @@
   <component name="PyCoverageOptionsProvider">
     <option name="myUseBundledCoveragePy" value="true" />
   </component>
-  <component name="RunManager" selected="Python.yeldAllCombos">
-    <configuration default="false" name="lecturer" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="untitled" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecturer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.ps1">
     <configuration default="false" name="factors" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -358,6 +367,24 @@
       <module name="mit-6.00.2x" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../mit-6.00.2x/UNIT1/yeldAllCombos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ps1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../mit-6.00.2x/UNIT1/pset1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mit-6.00.2x" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../mit-6.00.2x/UNIT1/pset1/ps1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -628,19 +655,19 @@
       <item index="0" class="java.lang.String" itemvalue="Python.prob1-1" />
       <item index="1" class="java.lang.String" itemvalue="Python.prob1-3" />
       <item index="2" class="java.lang.String" itemvalue="Python.dec2bin" />
-      <item index="3" class="java.lang.String" itemvalue="Python.lecturer" />
-      <item index="4" class="java.lang.String" itemvalue="Python.factors" />
-      <item index="5" class="java.lang.String" itemvalue="Python.factors (1)" />
-      <item index="6" class="java.lang.String" itemvalue="Python.whoIsNext" />
-      <item index="7" class="java.lang.String" itemvalue="Python.yeldAllCombos" />
+      <item index="3" class="java.lang.String" itemvalue="Python.factors" />
+      <item index="4" class="java.lang.String" itemvalue="Python.factors (1)" />
+      <item index="5" class="java.lang.String" itemvalue="Python.whoIsNext" />
+      <item index="6" class="java.lang.String" itemvalue="Python.yeldAllCombos" />
+      <item index="7" class="java.lang.String" itemvalue="Python.ps1" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.yeldAllCombos" />
-        <item index="1" class="java.lang.String" itemvalue="Python.whoIsNext" />
-        <item index="2" class="java.lang.String" itemvalue="Python.factors (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.factors" />
-        <item index="4" class="java.lang.String" itemvalue="Python.lecturer" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ps1" />
+        <item index="1" class="java.lang.String" itemvalue="Python.yeldAllCombos" />
+        <item index="2" class="java.lang.String" itemvalue="Python.whoIsNext" />
+        <item index="3" class="java.lang.String" itemvalue="Python.factors (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.factors" />
       </list>
     </recent_temporary>
   </component>
@@ -888,10 +915,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="732" extended-state="6" />
+    <frame x="0" y="0" width="1366" height="736" extended-state="4" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23352855" sideWeight="0.49061662" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23343152" sideWeight="0.49061662" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3375796" sideWeight="0.5043924" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -980,20 +1007,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mult_recursive.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gcdIter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gcdRecur.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1308,18 +1321,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../Programs/dec2bin/dec2bin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="66" column="17" selection-start-line="1" selection-start-column="0" selection-end-line="66" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../mit-6.00.2x/UNIT1/yeldAllCombos.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../mit-6.00.2x/UNIT1/greedy_cow_transport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../mit-6.00.2x/UNIT1/pset1/ps1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="70" column="30" selection-start-line="70" selection-start-column="30" selection-end-line="70" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Programs/dec2bin/dec2bin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="66" column="17" selection-start-line="1" selection-start-column="0" selection-end-line="66" selection-end-column="17" />
           <folding />
         </state>
       </provider>
