@@ -1,0 +1,13 @@
+Program objectives:
+
+-Get the user input in inches 
+-Convert the user input from inches to centimeters
+
+
+Program Design:
+
+-Set the user input as a variable
+
+-Multiply the user input by 2.54 and assign the result to a new variable
+
+-Return the result
