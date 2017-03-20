@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/mit-6.00.2x.iml" filepath="$PROJECT_DIR$/.idea/mit-6.00.2x.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python/.idea/python.iml" filepath="$PROJECT_DIR$/../python/.idea/python.iml" />
     </modules>
   </component>
 </project>
