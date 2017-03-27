@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main(void)
+{
+    long double sec_in_year = 3.156e7;
+    float age;
+    long double  age_sec;
+
+    printf("Enter your age in years: \n");
+    scanf("%f", &age_sec);
+    printf("Your age in seconds is equal to %f\n", age_sec);
+
+    return 0;
+}

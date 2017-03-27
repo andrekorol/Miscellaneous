@@ -1,0 +1,7 @@
+g = 3.0e-23  grams
+	    -------
+	    molecule
+
+1 quart = 950 grams
+
+Nquarts * (1 / g) * 950 grams = result

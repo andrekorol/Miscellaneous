@@ -1,0 +1,15 @@
+#include <stdio.h>
+int main(void)
+{
+    float cup, pint, ounce, tablespoon, teaspoon;
+    pint = 2 * cup;
+    ounce = ( 1 / 8) * cup;
+    tablespoon = (1 / 2) * ounce;
+    teaspoon = (1 / 3) * tablespoon;
+
+    printf("Enter your volume in cups: \n");
+    scanf("%f", &cup);
+    printf("%f cup(s) is equal to:\n%f% pints, %f ounces, %f tablespoons and %f teaspoons\n", cup, pint, ounce, tablespoon, teaspoon);
+
+    return 0:
+}

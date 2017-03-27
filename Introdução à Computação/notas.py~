@@ -1,0 +1,1 @@
+nota1, peso_nota1 =(int(x) for x in input("Entre a primeira nota e o seu respectivo peso:\n".split()))

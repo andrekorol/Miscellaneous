@@ -1,0 +1,58 @@
+1.
+a. long int
+b. float
+c. char
+d. int
+
+2. So that a larger number can ber correctly stored
+
+3.
+
+4.
+a. char = random character?
+b. int = 1066
+c. float = 99.44
+d. int = hex representation of an int?
+e. long double = 2 x 10^^30
+
+5. See rq5.c
+
+6.
+Constant	Type		Specifier
+a. 12           int		%d		
+b. 0X3		int		%#X
+c. 'C'		char		%c
+d. 2.34E07	double 		%e
+e. '\040'	char 		%c
+f. 7.0		double		%f
+g. 6L		long		%ld
+h. 6.0f		float		%f
+i. 0x5.b6p12	float		%a
+
+7.
+Constant	Type		Specifier
+a. 012		unsigned int	%#0
+b. 2.9e05L	long double	%Le
+c. 's'		char 		%c
+d. 100000	long (int)	%ld
+e. '\n'		char 		%c
+f. 20.0f	float		%f
+g. 0x44		unsigned int	%x
+h. -40		int		%d
+
+8. See rq8.c
+
+9.
+char ch = '\r';	/* escape sequence */
+char ch = 13; 	/* decimal	   */
+char ch ='\015';/* octal	   */
+char ch = '\xd'	/* hex		   */
+
+10. See rq10.c
+
+11.
+a. \n	= new line escape sequence
+b. \\	= backslash escape sequence
+c. \"	= double-quotation mark   escape sequence
+d. \t	= vertical tab escape sequence
+
