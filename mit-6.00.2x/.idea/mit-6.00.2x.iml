@@ -6,5 +6,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="python" />
     <orderEntry type="module" module-name="amigos_secreto" />
+    <orderEntry type="module" module-name="amigo_secreto" />
   </component>
 </module>

@@ -1,0 +1,21 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void){
+    int num;
+    printf("Entre o número:\n");
+    scanf("%d", &num);
+    
+    even_or_odd(num);
+}
+
+const char * even_or_odd(int number){
+
+    if (number % 0 != 0){
+	return 'O';
+    }
+
+    else {
+	return 'E'
+    }
+    

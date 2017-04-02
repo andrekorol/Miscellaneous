@@ -8,11 +8,15 @@ def odd(x):
     result = None
 
     while x % 2 != 0:
-        result = True
+        return "Ímpar"
         break
 
     while x % 2 == 0:
-        result = False
+        return "Par"
         break
 
     return result
+
+num = int(input("Entre um número: "))
+
+print(odd(num))
