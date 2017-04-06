@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../../../src/amigo-secreto-whatsapp/.idea/amigo-secreto-whatsapp.iml" filepath="$PROJECT_DIR$/../../../src/amigo-secreto-whatsapp/.idea/amigo-secreto-whatsapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../src/amigo/.idea/amigo-secreto-whatsapp.iml" filepath="$PROJECT_DIR$/../../../src/amigo/.idea/amigo-secreto-whatsapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mit-6.00.1x/.idea/mit-6.00.1x.iml" filepath="$PROJECT_DIR$/../mit-6.00.1x/.idea/mit-6.00.1x.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/mit-6.00.2x.iml" filepath="$PROJECT_DIR$/.idea/mit-6.00.2x.iml" />
       <module fileurl="file://$PROJECT_DIR$/../python/.idea/python.iml" filepath="$PROJECT_DIR$/../python/.idea/python.iml" />
     </modules>
