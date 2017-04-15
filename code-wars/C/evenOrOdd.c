@@ -12,12 +12,11 @@ const char * even_or_odd(int number){
 }
 int main(){
     clock_t begin = clock();
-    printf("%c\n", even_or_odd(4));
+    printf("%s\n", even_or_odd(4));
     clock_t end = clock();
     double time_spent = (double)(end - begin) / CLOCKS_PER_SEC;
-    printf("%ld\n", (long int)(end - begin)); 
-    printf("%lf\n", time_spent); 
+    printf("%ld processor clocks\n", (long int)(end - begin));
+    printf("%lf seconds\n", time_spent);
 
     return 0;
 }
-
