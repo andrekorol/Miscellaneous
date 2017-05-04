@@ -1,0 +1,15 @@
+#!usr/env/bin python3
+import sys
+import os
+import re
+script, filename = sys.argv
+
+fin = open("data.txt", 'r')
+for line in fin:
+    if "A percentagem de aprovação foi de" in line:
+        if int(re.search(r'\d+', line).group()) > 10:
+            print(line)
+            sys.exit(1)
+sys.exit(0)
+
+
