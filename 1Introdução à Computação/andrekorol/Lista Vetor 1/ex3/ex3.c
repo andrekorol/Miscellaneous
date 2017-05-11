@@ -29,4 +29,6 @@ int main(void) {
     printf("Impares:\n");
     for (j = 0; j < i; j++)
 	printf("%d\n", impares[j]);
+
+    return 0;
 }

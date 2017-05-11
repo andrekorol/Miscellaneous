@@ -55,6 +55,8 @@ int main(void) {
     }
     aprovacao = (aprovacao / (float)ALUNOS) * 100;
     printf("A percentagem de aprovação foi de %.0f%%\n", aprovacao);
+
+    return 0;
 }
 
 

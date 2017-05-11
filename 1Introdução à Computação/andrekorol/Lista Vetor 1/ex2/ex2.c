@@ -19,4 +19,6 @@ int main(void) {
     	    printf("O numero %d encontra-se na posição %d do vetor\n",
     		   num, i);
     }
+
+    return 0;
 }
