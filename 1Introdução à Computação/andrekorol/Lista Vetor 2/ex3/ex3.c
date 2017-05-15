@@ -1,10 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <stdbool.h>
+
 int main(void) {
     int *array;
-    int array_size = 1, num = 1, i = 0, posicao, j, k;
-    bool inserted = false;
+    int array_size = 1, num = 1, i = 0, posicao, j;
     
     array = (int *)malloc(sizeof(int) * array_size);
     while (num != 0) {
@@ -45,7 +44,6 @@ int main(void) {
 
     for (i = 0; i < array_size; i++) {
 	if (i == posicao) {
-	    k = i;
 	    for (j = (array_size - 1); j > i; j--)
 		array[j] = array[j - 1];
 	    array[posicao] = num;
