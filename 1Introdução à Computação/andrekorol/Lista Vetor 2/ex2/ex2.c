@@ -4,8 +4,8 @@
 int main(void) {
     int *array;
     int *distintos;
-    int i = 0, array_size = 1, num = 1, count = 0, j, k = 0, iguais;
-    
+    int i = 0, array_size = 1, num = 1, distintos_size = 0, j = 0, k;
+    bool is_in;
     array = (int *)malloc(sizeof(int) * array_size);
     while (num != 0) {
 	printf("Entre um número para ser adicionado ao vetor ou entre 0 para parar de adicionar números:\n");
@@ -13,8 +13,12 @@ int main(void) {
 	if (num == 0) {
 	    if (array_size == 1)
 		return 0;
-	    else
+	    else {
+		array_size--;
+		array = (int *)realloc(array, sizeof(int) * array_size);
 		break;
+	    }
+		
 	}
 	else {
 	    array[i] = num;
@@ -24,38 +28,43 @@ int main(void) {
 	}
 	    
     }
+    printf("Vetor dado:\nv = {");
+    for (i = 0; i < array_size; i++) {
+	if (i < (array_size - 1) )
+	    	printf("%d, ", array[i]);
+	else
+	    printf("%d}\n", array[i]);
+    }
 
-    // start writing new problem logic here:
-    
-    
-    for (i = 0; i < (array_size - 1); i++) {
-	iguais = 0;
-	for (j = 0; j < (array_size - 1); j++) {
-	    if (array[i] == array[j]) {
-		if (count == 0) {
-		    array_size = 1;
-		    distintos = (int *)malloc(sizeof(int) * array_size);
-		}
-		    
-		else if (iguais == 1) {
-		    distintos[k] = array[i];
-		    array_size++;
-		    distintos = (int *)realloc(distintos, sizeof(int) * array_size);
-		    k++;
-		    count++;
-		}
+    for (i = 0; i < array_size; i++) {
+	is_in = false;
+	if (distintos_size == 0) {
+	    distintos_size++;
+	    distintos = (int *)malloc(sizeof(int) * distintos_size);
+	    distintos[j] = array[i];
+	    j++;
+	}
+	else {
+	    for (k = 0; k < distintos_size; k++) {
+		if (array[i] == distintos[k])
+		    is_in = true;
+	    }
+	    if (is_in == false) {
+		distintos_size++;
+		distintos = (int *)realloc(distintos, sizeof(int) * distintos_size);
+		distintos[j] = array[i];
+		j++;
 	    }
 	}
     }
-    for (i = 0; i < (k + 1); i++)
-	printf("%d\n", distintos[i]);
-    printf("v = {");
-    for (i = 0; i <= k; i++) {
-	if (i < k)
+    printf("Vetor apenas com os numeros distintos:\nv = {");
+    for (i = 0; i < distintos_size; i++) {
+	if (i < (distintos_size - 1) )
 	    printf("%d, ", distintos[i]);
 	else
 	    printf("%d}\n", distintos[i]);
-		
     }
+    
     return 0;
+
 }
