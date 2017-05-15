@@ -17,16 +17,14 @@ int main(void) {
 		array_size--;
 		array = (int *)realloc(array, sizeof(int) * array_size);
 		break;
-	    }
-		
+	    }		
 	}
 	else {
 	    array[i] = num;
 	    i++;
 	    array_size++;
 	    array = (int *)realloc(array, sizeof(int) * array_size);
-	}
-	    
+	}   
     }
     printf("Vetor dado:\nv = {");
     for (i = 0; i < array_size; i++) {
