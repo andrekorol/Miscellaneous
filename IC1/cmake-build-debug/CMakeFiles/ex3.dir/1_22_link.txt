@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/ex3.dir/andrekorol/Lista-Vetor-2/ex3/ex3.o CMakeFiles/ex3.dir/andrekorol/Exercicios-Repeticao-Entrega/ex3.o  -o ex3 -rdynamic 

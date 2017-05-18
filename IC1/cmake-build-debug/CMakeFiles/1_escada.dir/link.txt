@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/1_escada.dir/aula4/1_escada.c.o  -o 1_escada 

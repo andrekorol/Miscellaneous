@@ -1,0 +1,20 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+#define SIZE 10
+#define MAX 100
+void descending_bubble_sort(int ) {}
+int main(void) {
+    int numeros[SIZE];
+    srand(time(NULL));
+    int num, i;
+    for (i = 0; i < SIZE; i++){
+	num = rand() % MAX;
+	numeros[i] = num;
+    }
+    printf("Vetor original: ");
+    for (i = 0; i < SIZE; i++)
+	printf("
+\n");
+    
+}

@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/area.dir/andrekorol/aula5/area.o CMakeFiles/area.dir/aula5/area.o  -o area -rdynamic 

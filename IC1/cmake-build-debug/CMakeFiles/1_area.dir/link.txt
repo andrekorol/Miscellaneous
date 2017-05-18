@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/1_area.dir/aula5/1_area.c.o  -o 1_area 

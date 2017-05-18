@@ -1,9 +1,0 @@
-#include <stdio.h>
-int main(void)
-{
-    float deposito, juros;
-
-    printf("Entre o valor do depósito: \n");
-    scanf("%f", &deposito);
-
-    printf("

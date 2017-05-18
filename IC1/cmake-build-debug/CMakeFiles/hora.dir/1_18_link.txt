@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/hora.dir/andrekorol/aula4/hora.o CMakeFiles/hora.dir/aula4/hora.o  -o hora -rdynamic 

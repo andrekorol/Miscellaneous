@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/rendimento.dir/andrekorol/aula4/rendimento.o CMakeFiles/rendimento.dir/aula4/rendimento.o  -o rendimento -rdynamic 

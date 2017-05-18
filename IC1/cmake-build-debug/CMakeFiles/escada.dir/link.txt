@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/escada.dir/andrekorol/aula4/escada.c.o  -o escada 

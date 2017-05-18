@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andre/Development/Programming/IC1/andrekorol/Lista-Vetor-Entregar/ex1/ex1.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+stdbool.h
+-
+

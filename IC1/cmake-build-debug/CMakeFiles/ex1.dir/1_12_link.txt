@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/ex1.dir/andrekorol/Lista-Vetor-2/ex1/ex1.o  -o ex1 -rdynamic 

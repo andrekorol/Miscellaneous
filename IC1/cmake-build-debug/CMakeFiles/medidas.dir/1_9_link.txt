@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/medidas.dir/andrekorol/aula4/medidas.o CMakeFiles/medidas.dir/aula4/medidas.o  -o medidas -rdynamic 

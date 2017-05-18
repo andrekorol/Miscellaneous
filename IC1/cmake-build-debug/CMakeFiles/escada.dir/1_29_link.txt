@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/escada.dir/andrekorol/aula4/escada.o CMakeFiles/escada.dir/aula4/escada.o  -o escada -rdynamic 

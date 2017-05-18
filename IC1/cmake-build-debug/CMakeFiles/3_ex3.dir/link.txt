@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/3_ex3.dir/andrekorol/Lista-Vetor-1/ex3/3_ex3.c.o  -o 3_ex3 

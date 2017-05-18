@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/2_salario.dir/aula4/2_salario.c.o  -o 2_salario 

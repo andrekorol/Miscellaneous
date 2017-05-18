@@ -1,9 +1,0 @@
-#include <math.h>
-#include <stdio.h>
-
-int main(){
-
-    double num1, num2;
-
-    printf("entre com o primeiro e segundo números:\n");
-    scanf(" %lf %lf", &num1, &num2);

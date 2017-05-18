@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/test.dir/andrekorol/aula7/if2-exercicios/test.o  -o test -rdynamic 

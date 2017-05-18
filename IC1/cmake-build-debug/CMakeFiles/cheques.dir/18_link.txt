@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/cheques.dir/andrekorol/aula4/cheques.c.o  -o cheques 

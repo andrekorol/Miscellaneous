@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/1_medidas.dir/aula4/1_medidas.c.o  -o 1_medidas 
