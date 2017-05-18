@@ -1,7 +1,0 @@
-﻿  stdafx.cpp
-  C files.cpp
-c:\users\anrob\desktop\bcc-2017\ic1\andrekorol\c files\c files\c files.cpp(7): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: consulte a declaração de 'getch'
-  Gerando Código...
-  C files.vcxproj -> C:\Users\anrob\Desktop\BCC-2017\ic1\andrekorol\C files\x64\Debug\C files.exe
-  C files.vcxproj -> C:\Users\anrob\Desktop\BCC-2017\ic1\andrekorol\C files\x64\Debug\C files.pdb (Partial PDB)
