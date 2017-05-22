@@ -1,1 +1,0 @@
-/usr/bin/cc  -g   CMakeFiles/hora.dir/andrekorol/aula4/hora.c.o  -o hora 

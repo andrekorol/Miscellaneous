@@ -1,1 +1,0 @@
-/usr/bin/cc  -g   CMakeFiles/par_ou_impar.dir/andrekorol/aula7/if1-exercicios/par_ou_impar.o  -o par_ou_impar -rdynamic 

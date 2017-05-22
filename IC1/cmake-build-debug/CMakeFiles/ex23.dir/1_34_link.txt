@@ -1,1 +1,0 @@
-/usr/bin/cc  -g   CMakeFiles/ex23.dir/andrekorol/Exercicios-Repeticao-Entrega/ex23.o  -o ex23 -rdynamic 

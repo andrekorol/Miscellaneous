@@ -1,1 +1,0 @@
-/usr/bin/cc  -g   CMakeFiles/provas.dir/andrekorol/Lista-Vetor-1/ex1/provas.c.o  -o provas 

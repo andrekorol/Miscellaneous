@@ -1,1 +1,0 @@
-/usr/bin/cc  -g   CMakeFiles/2_notas.dir/aula4/2_notas.c.o  -o 2_notas 

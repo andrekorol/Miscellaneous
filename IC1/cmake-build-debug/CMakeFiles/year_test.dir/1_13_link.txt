@@ -1,1 +1,0 @@
-/usr/bin/cc  -g   CMakeFiles/year_test.dir/andrekorol/aula7/if1-exercicios/year_test.o  -o year_test -rdynamic 

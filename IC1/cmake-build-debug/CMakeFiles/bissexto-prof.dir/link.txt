@@ -1,1 +1,0 @@
-/usr/bin/cc  -g   CMakeFiles/bissexto-prof.dir/andrekorol/aula6/bissexto-prof.c.o  -o bissexto-prof 

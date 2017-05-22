@@ -1,1 +1,0 @@
-/usr/bin/cc  -g   CMakeFiles/1_ex5.dir/andrekorol/Lista-Vetor-1/ex5/1_ex5.c.o  -o 1_ex5 

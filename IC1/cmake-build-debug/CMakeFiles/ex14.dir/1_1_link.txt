@@ -1,1 +1,0 @@
-/usr/bin/cc  -g   CMakeFiles/ex14.dir/andrekorol/Exercicios-Repeticao-Entrega/ex14.o  -o ex14 -rdynamic 

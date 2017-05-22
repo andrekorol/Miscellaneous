@@ -1,1 +1,0 @@
-/usr/bin/cc  -g   CMakeFiles/bissexto-prof.dir/andrekorol/aula6/bissexto-prof.o  -o bissexto-prof -rdynamic 

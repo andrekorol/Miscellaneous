@@ -1,1 +1,0 @@
-/usr/bin/cc  -g   CMakeFiles/ex8.dir/andrekorol/Exercicios-Repeticao-Entrega/ex8.o  -o ex8 -rdynamic 

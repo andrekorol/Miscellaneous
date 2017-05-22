@@ -1,1 +1,0 @@
-/usr/bin/cc  -g   CMakeFiles/1_par_ou_impar.dir/andrekorol/aula7/if1-exercicios/1_par_ou_impar.c.o  -o 1_par_ou_impar 

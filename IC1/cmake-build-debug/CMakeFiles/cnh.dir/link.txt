@@ -1,1 +1,0 @@
-/usr/bin/cc  -g   CMakeFiles/cnh.dir/andrekorol/aula7/if2-exercicios/cnh.c.o  -o cnh 

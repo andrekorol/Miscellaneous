@@ -1,1 +1,0 @@
-/usr/bin/cc  -g   CMakeFiles/2_ex3.dir/andrekorol/aula5/2_ex3.c.o  -o 2_ex3 

@@ -1,1 +1,0 @@
-/usr/bin/cc  -g   CMakeFiles/ex4.dir/andrekorol/Lista-Vetor-2/ex4/ex4.o CMakeFiles/ex4.dir/andrekorol/aula5/ex4.o CMakeFiles/ex4.dir/andrekorol/Lista-Vetor-1/ex4/ex4.o CMakeFiles/ex4.dir/aula5/ex4.o  -o ex4 -rdynamic 

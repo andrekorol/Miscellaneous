@@ -1,1 +1,0 @@
-/usr/bin/cc  -g   CMakeFiles/funcionario.dir/andrekorol/aula7/if1-exercicios/funcionario.c.o  -o funcionario 

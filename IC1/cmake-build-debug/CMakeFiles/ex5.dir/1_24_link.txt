@@ -1,1 +1,0 @@
-/usr/bin/cc  -g   CMakeFiles/ex5.dir/andrekorol/Lista-Vetor-2/ex5/ex5.o CMakeFiles/ex5.dir/andrekorol/Lista-Vetor-1/ex5/ex5.o  -o ex5 -rdynamic 

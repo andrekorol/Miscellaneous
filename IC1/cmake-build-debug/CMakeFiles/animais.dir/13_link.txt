@@ -1,1 +1,0 @@
-/usr/bin/cc  -g   CMakeFiles/animais.dir/andrekorol/aula7/if1-exercicios/animais.c.o  -o animais 

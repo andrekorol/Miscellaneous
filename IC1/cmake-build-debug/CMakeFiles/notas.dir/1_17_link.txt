@@ -1,1 +1,0 @@
-/usr/bin/cc  -g   CMakeFiles/notas.dir/andrekorol/aula7/if1-exercicios/notas.o CMakeFiles/notas.dir/andrekorol/aula4/notas.o CMakeFiles/notas.dir/aula4/notas.o  -o notas -rdynamic 

@@ -1,1 +1,0 @@
-/usr/bin/cc  -g   CMakeFiles/1_rendimento.dir/aula4/1_rendimento.c.o  -o 1_rendimento 

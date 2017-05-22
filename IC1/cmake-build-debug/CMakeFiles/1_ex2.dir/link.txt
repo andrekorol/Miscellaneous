@@ -1,1 +1,0 @@
-/usr/bin/cc  -g   CMakeFiles/1_ex2.dir/andrekorol/Exercicios-Repeticao-Entrega/1_ex2.c.o  -o 1_ex2 

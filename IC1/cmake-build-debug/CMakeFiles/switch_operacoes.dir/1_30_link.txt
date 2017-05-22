@@ -1,1 +1,0 @@
-/usr/bin/cc  -g   CMakeFiles/switch_operacoes.dir/andrekorol/aula7/switch_operacoes.o  -o switch_operacoes -rdynamic 

@@ -1,1 +1,0 @@
-/usr/bin/cc  -g   CMakeFiles/ex2.dir/andrekorol/Lista-Vetor-2/ex2/ex2.o CMakeFiles/ex2.dir/andrekorol/Exercicios-Repeticao-Entrega/ex2.o CMakeFiles/ex2.dir/andrekorol/aula5/ex2.o CMakeFiles/ex2.dir/andrekorol/Lista-Vetor-1/ex2/ex2.o CMakeFiles/ex2.dir/aula5/ex2.o  -o ex2 -rdynamic 

@@ -1,1 +1,0 @@
-/usr/bin/cc  -g   CMakeFiles/ordenacao.dir/andrekorol/aula6/ordenacao.o  -o ordenacao -rdynamic 
