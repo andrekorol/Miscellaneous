@@ -14,6 +14,7 @@ add_executable (ex2 /home/andre/Development/Programming/IC1/andrekorol/Lista-Vet
 add_executable (ex4 /home/andre/Development/Programming/IC1/andrekorol/Lista-Vetor-2/ex4/ex4.c)
 add_executable (1_ex1 /home/andre/Development/Programming/IC1/andrekorol/Lista-Vetor-2/ex1/1_ex1.c)
 add_executable (ex5 /home/andre/Development/Programming/IC1/andrekorol/Lista-Vetor-2/ex5/ex5.c)
+add_executable (listing12-1 /home/andre/Development/Programming/IC1/andrekorol/aula12/listing12-1.c)
 add_executable (rendimento /home/andre/Development/Programming/IC1/andrekorol/aula4/rendimento.c)
 add_executable (1_salario /home/andre/Development/Programming/IC1/andrekorol/aula4/1_salario.c)
 add_executable (medidas /home/andre/Development/Programming/IC1/andrekorol/aula4/medidas.c)

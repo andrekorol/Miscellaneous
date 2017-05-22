@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/ex8.dir/andrekorol/Exercicios-Repeticao-Entrega/ex8.c.o  -o ex8 

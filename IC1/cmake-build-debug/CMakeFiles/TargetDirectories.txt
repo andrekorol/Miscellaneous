@@ -11,6 +11,8 @@
 /home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/impar.dir
 /home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/ex4.dir
 /home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/hora.dir
+/home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/1_escada.dir
+/home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/idade.dir
 /home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/salario.dir
 /home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/2_ex4.dir
 /home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/CMakeCCompilerId.dir
@@ -29,8 +31,6 @@
 /home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/year_test.dir
 /home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/cheques.dir
 /home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/bissexto-prof.dir
-/home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/escada.dir
-/home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/ex8.dir
 /home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/rendimento.dir
 /home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/1_par_ou_impar.dir
 /home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/ex14.dir
@@ -41,12 +41,13 @@
 /home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/1_ex4.dir
 /home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/1_ex5.dir
 /home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/ordenacao.dir
+/home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/escada.dir
+/home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/ex8.dir
 /home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/ex1.dir
 /home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/1_ex2.dir
+/home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/listing12-1.dir
 /home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/2_ex2.dir
 /home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/bissexto.dir
-/home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/idade.dir
-/home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/1_escada.dir
 /home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/dias.dir
 /home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/ex23.dir
 /home/andre/Development/Programming/IC1/cmake-build-debug/CMakeFiles/triangulo.dir

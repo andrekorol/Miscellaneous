@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/impar.dir/andrekorol/aula6/impar.c.o  -o impar 

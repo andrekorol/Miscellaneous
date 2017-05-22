@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/2_ex4.dir/andrekorol/Lista-Vetor-1/ex4/2_ex4.c.o  -o 2_ex4 

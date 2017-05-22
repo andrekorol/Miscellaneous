@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/medidas.dir/andrekorol/aula4/medidas.c.o  -o medidas 
