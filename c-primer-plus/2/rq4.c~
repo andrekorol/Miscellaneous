@@ -1,8 +1,0 @@
-#include <studio.h>
-int main(void) /* this prints the number of weeks in a year */
-{
-int s;
-s = 56;
- printf("There are %d weeks in a year.", s);
-return 0;
-}

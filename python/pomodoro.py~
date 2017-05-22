@@ -1,8 +1,0 @@
-#!/usr/bin/env python3.6
-import time
-
-checkmarks = 0
-
-print("Do you wish to start the Pomodoro timer?)
-input("If your answer is yes press any key. If you wish to
-      close the program press CTRL-c")
