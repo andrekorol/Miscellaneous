@@ -1,20 +1,16 @@
 #include <bits/stdc++.h>
 using namespace std;
-typedef unsigned long ul;
-typedef vector<int> vi;
 int main() {
-    ul n;
-    int l, r, x, i, y, m;
+    int n, m, P[10001];
     cin >> n >> m;
-    vi P (n);
-    for (int k = 0; k < n; ++k)
-        cin >> P[k];
+    for (int k = 1; k <= n; ++k) cin >> P[k];
+    int l, r, x;
     for (int j = 0; j < m; ++j) {
         cin >> l >> r >> x;
-        y = 0;
-        for (i = l - 1; i < r; ++i) y+= P[i] < P[x];
-        // cout << "y = " << y << ", x = " << x << ", l + y = " << l+y << endl;
-        cout << (l + y == x ? "Yes" : "No") << endl;
+        int Px = P[x];
+        int cnt = 0;
+        for (int k = l; k <= r; ++k) cnt+= P[k] < Px;
+        cout << (Px == P[l+cnt] ? "Yes" : "No") << endl;
     }
     return 0;
 }
