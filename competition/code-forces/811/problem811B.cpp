@@ -1,27 +1,20 @@
-#include <iostream>
-#include <vector>
-#include <algorithm>
+#include <bits/stdc++.h>
 using namespace std;
 typedef unsigned long ul;
 typedef vector<int> vi;
 int main() {
-    ul n, m;
-    int l, r, x;
+    ul n;
+    int l, r, x, i, y, m;
     cin >> n >> m;
     vi P (n);
-    vi P_copy (n);
-    for (int i = 0; i < n; ++i)
-        cin >> P[i];
+    for (int k = 0; k < n; ++k)
+        cin >> P[k];
     for (int j = 0; j < m; ++j) {
         cin >> l >> r >> x;
-        if (l > x || r < x)
-            cout << "Yes" << endl;
-        else {
-            --x;
-            P_copy = P;
-            sort(P_copy.begin()+l-1, P_copy.begin()+r);
-            cout << (P[x] == P_copy[x] ? "Yes" : "No") << endl;
-        }
+        y = 0;
+        for (i = l - 1; i < r; ++i) y+= P[i] < P[x];
+        // cout << "y = " << y << ", x = " << x << ", l + y = " << l+y << endl;
+        cout << (l + y == x ? "Yes" : "No") << endl;
     }
     return 0;
 }
