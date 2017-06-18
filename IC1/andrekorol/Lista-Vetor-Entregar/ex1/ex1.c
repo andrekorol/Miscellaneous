@@ -9,7 +9,7 @@
 #define MAX 1000
 
 int main(void) {
-    srand(time(NULL));
+    srand((unsigned int) time(NULL));
     int productIds[SIZE], productQtys[SIZE];
     int clientId = 1, num, productId, productQty;
     bool validProductId;
