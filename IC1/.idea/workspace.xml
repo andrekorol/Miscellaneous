@@ -1,66 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
-    <generated>
-      <config projectName="Project" targetName="bissexto-prof" />
-      <config projectName="Project" targetName="1_ex1" />
-      <config projectName="Project" targetName="escada" />
-      <config projectName="Project" targetName="3_ex4" />
-      <config projectName="Project" targetName="3_ex3" />
-      <config projectName="Project" targetName="3_ex2" />
-      <config projectName="Project" targetName="rendimento" />
-      <config projectName="Project" targetName="1_hora" />
-      <config projectName="Project" targetName="1_idade" />
-      <config projectName="Project" targetName="ex5" />
-      <config projectName="Project" targetName="1_notas" />
-      <config projectName="Project" targetName="2_ex4" />
-      <config projectName="Project" targetName="2_ex3" />
-      <config projectName="Project" targetName="2_ex2" />
-      <config projectName="Project" targetName="1_rendimento" />
-      <config projectName="Project" targetName="operacoes" />
-      <config projectName="Project" targetName="1_cheques" />
-      <config projectName="Project" targetName="1_area" />
-      <config projectName="Project" targetName="1_par_ou_impar" />
-      <config projectName="Project" targetName="1_ex5" />
-      <config projectName="Project" targetName="1_ex4" />
-      <config projectName="Project" targetName="1_ex3" />
-      <config projectName="Project" targetName="1_salario" />
-      <config projectName="Project" targetName="cnh" />
-      <config projectName="Project" targetName="hora" />
-      <config projectName="Project" targetName="funcionario" />
-      <config projectName="Project" targetName="2_salario" />
-      <config projectName="Project" targetName="cheques" />
-      <config projectName="Project" targetName="listing12-1" />
-      <config projectName="Project" targetName="2_notas" />
-      <config projectName="Project" targetName="ex2" />
-      <config projectName="Project" targetName="ex4" />
-      <config projectName="Project" targetName="impar" />
-      <config projectName="Project" targetName="salario" />
-      <config projectName="Project" targetName="switch_operacoes" />
-      <config projectName="Project" targetName="bissexto" />
-      <config projectName="Project" targetName="triangulo" />
-      <config projectName="Project" targetName="feature_tests" />
-      <config projectName="Project" targetName="area" />
-      <config projectName="Project" targetName="1_ex2" />
-      <config projectName="Project" targetName="dias" />
-      <config projectName="Project" targetName="1_medidas" />
-      <config projectName="Project" targetName="ex14" />
-      <config projectName="Project" targetName="ex8" />
-      <config projectName="Project" targetName="animais" />
-      <config projectName="Project" targetName="1_escada" />
-      <config projectName="Project" targetName="ex3" />
-      <config projectName="Project" targetName="medidas" />
-      <config projectName="Project" targetName="ex1" />
-      <config projectName="Project" targetName="year_test" />
-      <config projectName="Project" targetName="ordenacao" />
-      <config projectName="Project" targetName="provas" />
-      <config projectName="Project" targetName="ex23" />
-      <config projectName="Project" targetName="idade" />
-      <config projectName="Project" targetName="4_ex3" />
-      <config projectName="Project" targetName="4_ex2" />
-      <config projectName="Project" targetName="CMakeCCompilerId" />
-      <config projectName="Project" targetName="notas" />
-    </generated>
+    <generated />
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
@@ -68,12 +30,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be99c74d-0bee-4525-8934-5b8a4c6c023e" name="Default" comment="Add Clion integration">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../c-primer-plus/4/input.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../c-primer-plus/4/longstrg.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../c-primer-plus/4/skip2.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../c-primer-plus/4/varwid.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/andrekorol/Lista-Vetor-Entregar/ex1/ex1.c" afterPath="$PROJECT_DIR$/andrekorol/Lista-Vetor-Entregar/ex1/ex1.c" />
+    <list default="true" id="be99c74d-0bee-4525-8934-5b8a4c6c023e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -91,7 +49,28 @@
     <favorites_list name="Introdução à Computação" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="ex1.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/andrekorol/Lista-String/ex1.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="69" lean-forward="false" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="58" column="79" lean-forward="false" selection-start-line="58" selection-start-column="79" selection-end-line="58" selection-end-column="79" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -126,11 +105,12 @@
         <option value="$PROJECT_DIR$/andrekorol/Lista Vetor 2/ex5/ex5.c" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
         <option value="$PROJECT_DIR$/andrekorol/Lista-Vetor-2/ex5/ex5.c" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/andrekorol/Lista-Vetor-1/ex2/3_ex2.c" />
         <option value="$PROJECT_DIR$/andrekorol/aula12/listing12-1.c" />
         <option value="$PROJECT_DIR$/andrekorol/Lista-Vetor-Entregar/ex2/ex2.c" />
         <option value="$PROJECT_DIR$/andrekorol/Lista-Vetor-Entregar/ex1/ex1.c" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/andrekorol/Lista-String/ex1.cpp" />
       </list>
     </option>
   </component>
@@ -141,10 +121,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
-    <option name="y" value="-11" />
-    <option name="width" value="1368" />
-    <option name="height" value="780" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -206,6 +186,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IC1" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IC1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="andrekorol" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lista-String" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -215,6 +213,7 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="TEXT" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="GO_FMT" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -228,7 +227,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.listing12-1">
+  <component name="RunManager" selected="Application.Build All">
+    <configuration default="true" type="#com.sylvanaar.idea.Lua.run.LuaConfigurationType" factoryName="Lua Script">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="ALTERNATE_INTERPRETER" value="false" />
+      <envs />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
     <configuration default="true" type="CLion_Remote" factoryName="GDB Remote Debug" remoteCommand="" symbolFile="" sysroot="">
       <method />
     </configuration>
@@ -251,6 +262,36 @@
       <method />
     </configuration>
     <configuration default="true" type="FirefoxRemoteDebugType" factoryName="Firefox Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="GoAppEngineRunConfiguration" factoryName="Go App Engine">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <filePath value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoRemoteDebugConfigurationType" factoryName="Go Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="GoRunFileConfiguration" factoryName="Go Single File">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
@@ -415,298 +456,8 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="1_area" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="1_area" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="1_area">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="1_cheques" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="1_cheques" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="1_cheques">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="1_escada" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="1_escada" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="1_escada">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="1_ex1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="1_ex1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="1_ex1">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="1_ex2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="1_ex2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="1_ex2">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="1_ex3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="1_ex3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="1_ex3">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="1_ex4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="1_ex4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="1_ex4">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="1_ex5" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="1_ex5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="1_ex5">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="1_hora" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="1_hora" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="1_hora">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="1_idade" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="1_idade" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="1_idade">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="1_medidas" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="1_medidas" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="1_medidas">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="1_notas" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="1_notas" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="1_notas">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="1_par_ou_impar" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="1_par_ou_impar" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="1_par_ou_impar">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="1_rendimento" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="1_rendimento" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="1_rendimento">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="1_salario" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="1_salario" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="1_salario">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="2_ex2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="2_ex2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="2_ex2">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="2_ex3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="2_ex3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="2_ex3">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="2_ex4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="2_ex4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="2_ex4">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="2_notas" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="2_notas" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="2_notas">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="2_salario" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="2_salario" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="2_salario">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="3_ex2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="3_ex2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="3_ex2">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="3_ex3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="3_ex3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="3_ex3">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="3_ex4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="3_ex4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="3_ex4">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="4_ex2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="4_ex2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="4_ex2">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="4_ex3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="4_ex3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="4_ex3">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="animais" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="animais" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="animais">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="area" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="area" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="area">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="bissexto" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="bissexto" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="bissexto">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="bissexto-prof" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="bissexto-prof" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="bissexto-prof">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="cheques" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="cheques" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="cheques">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="CMakeCCompilerId" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="CMakeCCompilerId" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="CMakeCCompilerId">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="cnh" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="cnh" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="cnh">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="dias" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="dias" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="dias">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="escada" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="escada" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="escada">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="ex1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ex1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="ex1">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="ex14" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ex14" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="ex14">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="ex2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ex2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="ex2">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="ex23" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ex23" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="ex23">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="ex3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ex3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="ex3">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="ex4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ex4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="ex4">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="ex5" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ex5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="ex5">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="ex8" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ex8" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="ex8">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="feature_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="feature_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="feature_tests">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="funcionario" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="funcionario" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="funcionario">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="hora" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="hora" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="hora">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="idade" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="idade" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="idade">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="impar" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="impar" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="impar">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="listing12-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="listing12-1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="listing12-1">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="medidas" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="medidas" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="medidas">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="notas" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="notas" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="notas">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="operacoes" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="operacoes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="operacoes">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="ordenacao" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ordenacao" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="ordenacao">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="provas" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="provas" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="provas">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="rendimento" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="rendimento" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="rendimento">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="salario" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="salario" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="salario">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="switch_operacoes" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="switch_operacoes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="switch_operacoes">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="triangulo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="triangulo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="triangulo">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="year_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="year_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="year_test">
-      <envs />
-      <method />
-    </configuration>
-    <list size="59">
+    <list size="1">
       <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
-      <item index="1" class="java.lang.String" itemvalue="Application.1_area" />
-      <item index="2" class="java.lang.String" itemvalue="Application.1_cheques" />
-      <item index="3" class="java.lang.String" itemvalue="Application.1_escada" />
-      <item index="4" class="java.lang.String" itemvalue="Application.1_ex1" />
-      <item index="5" class="java.lang.String" itemvalue="Application.1_ex2" />
-      <item index="6" class="java.lang.String" itemvalue="Application.1_ex3" />
-      <item index="7" class="java.lang.String" itemvalue="Application.1_ex4" />
-      <item index="8" class="java.lang.String" itemvalue="Application.1_ex5" />
-      <item index="9" class="java.lang.String" itemvalue="Application.1_hora" />
-      <item index="10" class="java.lang.String" itemvalue="Application.1_idade" />
-      <item index="11" class="java.lang.String" itemvalue="Application.1_medidas" />
-      <item index="12" class="java.lang.String" itemvalue="Application.1_notas" />
-      <item index="13" class="java.lang.String" itemvalue="Application.1_par_ou_impar" />
-      <item index="14" class="java.lang.String" itemvalue="Application.1_rendimento" />
-      <item index="15" class="java.lang.String" itemvalue="Application.1_salario" />
-      <item index="16" class="java.lang.String" itemvalue="Application.2_ex2" />
-      <item index="17" class="java.lang.String" itemvalue="Application.2_ex3" />
-      <item index="18" class="java.lang.String" itemvalue="Application.2_ex4" />
-      <item index="19" class="java.lang.String" itemvalue="Application.2_notas" />
-      <item index="20" class="java.lang.String" itemvalue="Application.2_salario" />
-      <item index="21" class="java.lang.String" itemvalue="Application.3_ex2" />
-      <item index="22" class="java.lang.String" itemvalue="Application.3_ex3" />
-      <item index="23" class="java.lang.String" itemvalue="Application.3_ex4" />
-      <item index="24" class="java.lang.String" itemvalue="Application.4_ex2" />
-      <item index="25" class="java.lang.String" itemvalue="Application.4_ex3" />
-      <item index="26" class="java.lang.String" itemvalue="Application.animais" />
-      <item index="27" class="java.lang.String" itemvalue="Application.area" />
-      <item index="28" class="java.lang.String" itemvalue="Application.bissexto" />
-      <item index="29" class="java.lang.String" itemvalue="Application.bissexto-prof" />
-      <item index="30" class="java.lang.String" itemvalue="Application.cheques" />
-      <item index="31" class="java.lang.String" itemvalue="Application.CMakeCCompilerId" />
-      <item index="32" class="java.lang.String" itemvalue="Application.cnh" />
-      <item index="33" class="java.lang.String" itemvalue="Application.dias" />
-      <item index="34" class="java.lang.String" itemvalue="Application.escada" />
-      <item index="35" class="java.lang.String" itemvalue="Application.ex1" />
-      <item index="36" class="java.lang.String" itemvalue="Application.ex14" />
-      <item index="37" class="java.lang.String" itemvalue="Application.ex2" />
-      <item index="38" class="java.lang.String" itemvalue="Application.ex23" />
-      <item index="39" class="java.lang.String" itemvalue="Application.ex3" />
-      <item index="40" class="java.lang.String" itemvalue="Application.ex4" />
-      <item index="41" class="java.lang.String" itemvalue="Application.ex5" />
-      <item index="42" class="java.lang.String" itemvalue="Application.ex8" />
-      <item index="43" class="java.lang.String" itemvalue="Application.feature_tests" />
-      <item index="44" class="java.lang.String" itemvalue="Application.funcionario" />
-      <item index="45" class="java.lang.String" itemvalue="Application.hora" />
-      <item index="46" class="java.lang.String" itemvalue="Application.idade" />
-      <item index="47" class="java.lang.String" itemvalue="Application.impar" />
-      <item index="48" class="java.lang.String" itemvalue="Application.listing12-1" />
-      <item index="49" class="java.lang.String" itemvalue="Application.medidas" />
-      <item index="50" class="java.lang.String" itemvalue="Application.notas" />
-      <item index="51" class="java.lang.String" itemvalue="Application.operacoes" />
-      <item index="52" class="java.lang.String" itemvalue="Application.ordenacao" />
-      <item index="53" class="java.lang.String" itemvalue="Application.provas" />
-      <item index="54" class="java.lang.String" itemvalue="Application.rendimento" />
-      <item index="55" class="java.lang.String" itemvalue="Application.salario" />
-      <item index="56" class="java.lang.String" itemvalue="Application.switch_operacoes" />
-      <item index="57" class="java.lang.String" itemvalue="Application.triangulo" />
-      <item index="58" class="java.lang.String" itemvalue="Application.year_test" />
     </list>
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -749,6 +500,7 @@
       <workItem from="1495129046352" duration="3184000" />
       <workItem from="1495251081389" duration="692000" />
       <workItem from="1496886053958" duration="782000" />
+      <workItem from="1498437179986" duration="594000" />
     </task>
     <task id="LOCAL-00001" summary="Add Clion integration">
       <created>1495081215084</created>
@@ -757,11 +509,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495081215085</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add Clion integration and update Lista-String/ex1.cpp">
+      <created>1498437753772</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1498437753772</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28701000" />
+    <option name="totallyTimeSpent" value="29295000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -773,18 +532,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-11" width="1368" height="780" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23426062" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30792227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30757096" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29446936" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23426062" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29446936" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -804,7 +566,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Clion integration" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Clion integration" />
+    <MESSAGE value="Add Clion integration and update Lista-String/ex1.cpp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Clion integration and update Lista-String/ex1.cpp" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -821,29 +584,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#39#57#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/andrekorol/Lista-Vetor-Entregar/ex2/ex2.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="47" lean-forward="false" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-          <folding>
-            <element signature="e#40#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/andrekorol/Lista-Vetor-Entregar/ex2/ex2.c" />
     <entry file="file://$PROJECT_DIR$/andrekorol/aula12/listing12-1.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#40#58#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -859,29 +607,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#39#57#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/andrekorol/Lista-Vetor-Entregar/ex2/ex2.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="47" lean-forward="false" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-          <folding>
-            <element signature="e#40#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/andrekorol/Lista-Vetor-Entregar/ex2/ex2.c" />
     <entry file="file://$PROJECT_DIR$/andrekorol/aula12/listing12-1.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#40#58#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -897,9 +630,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#39#57#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -934,25 +664,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/andrekorol/Lista Vetor 2/ex5/ex5.c" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
     <entry file="file://$PROJECT_DIR$/andrekorol/Lista Vetor 2/ex5/ex5.c" />
     <entry file="file://$PROJECT_DIR$/andrekorol/Lista Vetor 2/ex5/ex5.c" />
     <entry file="file://$PROJECT_DIR$/helloworld.c" />
     <entry file="file://$PROJECT_DIR$/andrekorol/Lista Vetor 2/ex5/ex5.c" />
     <entry file="file://$PROJECT_DIR$/CMaleLists.txt" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
     <entry file="file://$PROJECT_DIR$/andrekorol/Lista-Vetor-2/ex1/1_ex1.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="382">
@@ -985,37 +703,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#40#58#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/andrekorol/Lista-Vetor-Entregar/ex2/ex2.c">
+    <entry file="file://$PROJECT_DIR$/andrekorol/Lista-Vetor-Entregar/ex2/ex2.c" />
+    <entry file="file://$PROJECT_DIR$/andrekorol/Lista-Vetor-Entregar/ex1/ex1.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="47" lean-forward="false" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-          <folding>
-            <element signature="e#40#58#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="360">
+          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        <state relative-caret-position="435">
+          <caret line="58" column="79" lean-forward="false" selection-start-line="58" selection-start-column="79" selection-end-line="58" selection-end-column="79" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/andrekorol/Lista-Vetor-Entregar/ex1/ex1.c">
+    <entry file="file://$PROJECT_DIR$/andrekorol/Lista-String/ex1.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-          <folding>
-            <element signature="e#39#57#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="11" column="69" lean-forward="false" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+          <folding />
         </state>
       </provider>
     </entry>
