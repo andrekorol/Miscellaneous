@@ -1,3 +1,0 @@
-cmake_minimum_required(VERSION 3.7)
-add_executable (salario /home/andre/Development/Programming/IC1/andrekorol/aula7/if2-exercicios/salario.c)
-add_executable (cnh /home/andre/Development/Programming/IC1/andrekorol/aula7/if2-exercicios/cnh.c)
