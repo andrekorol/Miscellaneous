@@ -60,5 +60,18 @@ end
 cu_jl = hcat(Array(last_cu), last_jl)
 cmap = colormap("Blues", 16 + 1)
 color_lookup(val, cmap) = cmap[val + 1]
-save("C:\\Users\\anrob\\source\\repos\\Miscellaneous\\julia\\GPU\\results" *
-"\\juliaset.png", color_lookup.(cu_jl, (cmap,)))
+
+if Sys.iswindows()
+    if split(pwd(), '\\')[end] == "julia"
+        save("$(pwd())\\GPU\\results\\juliaset.png",
+        color_lookup.(cu_jl, (cmap,)))
+    elseif split(pwd(), "\\")[end] == "GPU"
+        save("$(pwd())\\results\\juliaset.png", color_lookup.(cu_jl, (cmap,)))
+    end
+else
+    if split(pwd(), '/')[end] == "julia"
+        save("$(pwd())/GPU/results/juliaset.png", color_lookup.(cu_jl, (cmap,)))
+    elseif split(pwd(), '/')[end] == "GPU"
+        save("$(pwd())/results/juliaset.png", color_lookup.(cu_jl, (cmap,)))
+    end
+end
