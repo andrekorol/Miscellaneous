@@ -8,7 +8,7 @@ ancestor(X, Y) :- parent(X, Y).
 ancestor(X, Y) :- parent(X, Z), ancestor(Z, Y).
 
 descend(X, Y) :- child(X, Y).
-descend(X, Y) :- child(X, Y).
+descend(X, Y) :- child(X, Z), descend(Z, Y).
 
 % example family
 parent(marcos, andre).
